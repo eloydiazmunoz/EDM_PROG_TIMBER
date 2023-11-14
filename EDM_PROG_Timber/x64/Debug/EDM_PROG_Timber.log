@@ -1,0 +1,9 @@
+﻿  EDM_PROG_Timber.cpp
+D:\AluCiclesGS1\EDM\PROG\EDM_PROG_Timber\EDM_PROG_Timber\EDM_PROG_Timber.cpp(132,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+D:\AluCiclesGS1\EDM\PROG\EDM_PROG_Timber\EDM_PROG_Timber\EDM_PROG_Timber.cpp(355,34): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\AluCiclesGS1\EDM\PROG\EDM_PROG_Timber\EDM_PROG_Timber\EDM_PROG_Timber.cpp(399,34): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\AluCiclesGS1\EDM\PROG\EDM_PROG_Timber\EDM_PROG_Timber\EDM_PROG_Timber.cpp(529,31): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\AluCiclesGS1\EDM\PROG\EDM_PROG_Timber\EDM_PROG_Timber\EDM_PROG_Timber.cpp(531,18): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+D:\AluCiclesGS1\EDM\PROG\EDM_PROG_Timber\EDM_PROG_Timber\EDM_PROG_Timber.cpp(579,19): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+D:\AluCiclesGS1\EDM\PROG\EDM_PROG_Timber\EDM_PROG_Timber\EDM_PROG_Timber.cpp(682,17): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  EDM_PROG_Timber.vcxproj -> D:\AluCiclesGS1\EDM\PROG\EDM_PROG_Timber\x64\Debug\EDM_PROG_Timber.exe
